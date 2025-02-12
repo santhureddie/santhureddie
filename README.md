@@ -1,4 +1,4 @@
-# Hi there, I'm Santhureddie! 👋
+# Hi there, I'm Santhosh! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuous learning. Here is a bit about me:
 
