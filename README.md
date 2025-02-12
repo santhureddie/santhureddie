@@ -3,11 +3,10 @@
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuous learning. Here is a bit about me:
 
 ## 🔭 Current Projects
-- **Project Name 1**: Brief description of the project.
-- **Project Name 2**: Brief description of the project.
+- **Project Name**: AI powered voice assistant for restaurants 
 
 ## 🌱 Currently Learning
-- New programming languages and frameworks.
+- Artificial Intelligence and Machine Learning Algorithms.
 - Best practices in software development.
 - Contributing to open-source projects.
 
@@ -22,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 - Twitter: [@santhureddie](https://twitter.com/santhureddie)
 
 ## ⚡ Fun Fact
-- I love solving puzzles and playing chess during my free time.
+- I love to work on DIY Homedecor projects during my free time._
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, JavaScript, TypeScript, Java
