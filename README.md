@@ -37,3 +37,6 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 - Contributed to 10+ open-source projects
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on something exciting! 🚀
+
+## Projects
+- Munchies (Food Ordering Platform) Try it [here](https://santhureddie.github.io/munchie-quick-order/)
