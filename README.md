@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 - Twitter: [@santhureddie](https://twitter.com/santhureddie)
 
 ## ⚡ Fun Fact
-- I love to work on DIY Homedecor projects during my free time._
+- I love to work on DIY Homedecor projects during my free time.
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, JavaScript, TypeScript, Java
