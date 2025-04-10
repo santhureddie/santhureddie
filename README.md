@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuous learning. Here is a bit about me:
 
-## 🔭 Current Projects
-- **Project Name**: AI powered voice assistant for restaurants 
 
 ## 🌱 Currently Learning
 - Artificial Intelligence and Machine Learning Algorithms.
@@ -25,16 +23,11 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, JavaScript, TypeScript, Java
-- **Frameworks**: React, Node.js, Express
 - **Tools**: Git, Docker, Kubernetes
 
 
 ## 🌐 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santhureddie&layout=compact&theme=radical)
-
-## 🏆 Achievements
-- Completed 100+ coding challenges on [LeetCode](https://leetcode.com/santhureddie/)
-- Contributed to 10+ open-source projects
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on something exciting! 🚀
 
