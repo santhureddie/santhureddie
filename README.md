@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 - Open-source contributions
 
 ## 📫 How to Reach Me
-- Email: [santhureddie@example.com](mailto:santhureddie@gmail.com)
-- LinkedIn: [Santhureddie](https://www.linkedin.com/in/santhureddie/)
+- Email: [santhoshkumarreddyjampana@example.com](mailto:santhoshkumarreddyjampana@gmail.com)
+- LinkedIn: [SanthoshJampana](https://www.linkedin.com/in/santhoshjampana/)
 - Twitter: [@santhureddie](https://twitter.com/santhureddie)
 
 ## ⚡ Fun Fact
@@ -32,4 +32,5 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 Feel free to explore my repositories and get in touch if you'd like to collaborate on something exciting! 🚀
 
 ## Projects
+- Portfolio Try it [here](https://santhureddie.github.io/myportfolio/)
 - Munchies (Food Ordering Platform) Try it [here](https://santhureddie.github.io/munchie-quick-order/)
