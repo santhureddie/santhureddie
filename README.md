@@ -18,8 +18,6 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 - LinkedIn: [SanthoshJampana](https://www.linkedin.com/in/santhoshjampana/)
 - Twitter: [@santhureddie](https://twitter.com/santhureddie)
 
-## ⚡ Fun Fact
-- I love to work on DIY Homedecor projects during my free time.
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, JavaScript, TypeScript, Java
@@ -32,5 +30,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 Feel free to explore my repositories and get in touch if you'd like to collaborate on something exciting! 🚀
 
 ## Projects
-- Portfolio Try it [here](https://santhureddie.github.io/myportfolio/)
-- Munchies (Food Ordering Platform) Try it [here](https://santhureddie.github.io/munchie-quick-order/)
+- Portfolio -  Try it [here](https://santhureddie.github.io/myportfolio/)
+- Munchies (Food Ordering Platform) - Try it [here](https://santhureddie.github.io/munchie-quick-order/)
+- Skill Highlighter - Try it [here](https://github.com/santhureddie/Skill-Highlighter/)
+- Mindful Note Keeper - Try it [here](https://santhureddie.github.io/mindful-note-keeper/)
