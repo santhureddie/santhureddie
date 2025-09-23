@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 - Contributing to open-source projects.
 
 ## 💬 Ask Me About
+- Internet of Things (IoT)
 - Web development
 - Backend development
 - Open-source contributions
