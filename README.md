@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 
 ## Currently Learning
+- Linux Internals and Boot Process
 - Artificial Intelligence and Machine Learning Algorithms.
 - Best practices in software development.
 - Contributing to open-source projects.
