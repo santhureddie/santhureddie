@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 - Contributing to open-source projects.
 
 ## Ask Me About
+- Linux Internals
 - Internet of Things (IoT)
 - Web development
 - Backend development
@@ -23,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 ## Technologies & Tools
 - **Languages**: Python, JavaScript, TypeScript, Java, C, C++
-- **Tools**: Git, Docker, Kubernetes, OCI
+- **Tools**: Git, Podman, Docker, Kubernetes, OCI
 
 
 ## Top Languages
