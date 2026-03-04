@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 
 ## Currently Learning
-- Linux Internals and Boot Process
+- Linux Internals and Boot Process.
+- Learning and Using Codex to implement features in both personal and professional settings.
 - Artificial Intelligence and Machine Learning Algorithms.
-- Best practices in software development.
 - Contributing to open-source projects.
 
 ## Ask Me About
